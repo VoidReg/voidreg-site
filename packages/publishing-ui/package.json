@@ -32,7 +32,7 @@
     "@publisle/block-sdk": "catalog:",
     "@publisle/blocks-core": "catalog:",
     "@publisle/schema": "catalog:",
-    "isomorphic-dompurify": "^4.6.0"
+    "isomorphic-dompurify": "^4.7.0"
   },
   "peerDependencies": {
     "svelte": "^5.0.0"
